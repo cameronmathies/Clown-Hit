@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Car : MonoBehaviour {
 
-	void Car()
+	public void car()
 	{
 		Application.LoadLevel("Car");
 		Debug.Log ("Works");
