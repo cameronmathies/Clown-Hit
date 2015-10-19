@@ -50,7 +50,9 @@
      <Compile Include="Assets\Code\Bullet\BulletFireScript.cs" />
      <Compile Include="Assets\Code\Bullet\BulletScript.cs" />
      <Compile Include="Assets\Code\BulletFireScript.cs" />
+     <Compile Include="Assets\Code\Kills.cs" />
      <Compile Include="Assets\Code\Level Jump\Car.cs" />
+     <Compile Include="Assets\Code\Menu\Kill.cs" />
      <Compile Include="Assets\Code\Menu\go2kisalnd.cs" />
      <Compile Include="Assets\Code\Menu\mainPlay.cs" />
      <Compile Include="Assets\Code\Patrol.cs" />
