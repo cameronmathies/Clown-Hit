@@ -8,6 +8,6 @@ public class BulletScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 			Input.GetKey(KeyCode.Escape);
-		transform.Translate (0, -1, 0);
+		transform.Translate (0, 0, -1);
 	}
 }
