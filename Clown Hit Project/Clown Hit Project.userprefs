@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Bullet\BulletScript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Space-Hit\Clown-Hit-master\Clown Hit Project\Assets\Code\BulletFireScript.cs">
     <Files>
-      <File FileName="Assets\Code\Menu\mainPlay.cs" Line="10" Column="1" />
-      <File FileName="Assets\Code\BulletFireScript.cs" Line="45" Column="1" />
-      <File FileName="Assets\Code\Bullet\BulletScript.cs" Line="11" Column="29" />
+      <File FileName="..\..\Space-Hit\Clown-Hit-master\Clown Hit Project\Assets\Code\Menu\mainPlay.cs" Line="7" Column="32" />
+      <File FileName="..\..\Space-Hit\Clown-Hit-master\Clown Hit Project\Assets\Code\BulletFireScript.cs" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
